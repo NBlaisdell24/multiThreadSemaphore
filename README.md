@@ -1,11 +1,11 @@
 # multiThreadSemaphore
 
 ## Solution 1:
-![alt text for screen readers](prob1.PNG).
+![alt text for screen readers](prob2.PNG).
 This is the no starve readers output. I couldn't figure out the issue with only the writer going through.
 
 ## Solution 2:
-![alt text for screen readers](prob2.PNG).
+![alt text for screen readers](prob3.PNG).
 This is the Writer priority output. Similarly to solution 1, the writer is the only one getting any time in the output.
 
 ## Solution 3:
